@@ -1,0 +1,12 @@
+#container {
+    text-align: center;
+}
+
+.myClassButton {
+    font-size: 100px;
+    width: 300px;
+    height: 300px;
+    max-width: 30vw;
+    max-height: 30vw;
+    background-color: #f7c548;
+}
